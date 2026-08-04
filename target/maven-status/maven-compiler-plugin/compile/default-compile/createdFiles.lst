@@ -1,0 +1,5 @@
+com\example\titleverificationbackend\service\TitleService.class
+com\example\titleverificationbackend\entity\Title.class
+com\example\titleverificationbackend\repository\TitleRepository.class
+com\example\titleverificationbackend\controller\TitleController.class
+com\example\titleverificationbackend\TitleVerificationBackendApplication.class
